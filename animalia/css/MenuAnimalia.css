@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu{
+    background-color: black;
+    display: flex; 
+    justify-content: center; 
+    margin-top: 0px;
+    padding: 25px;
+    
+}
+.menu ul{
+    display: flex;
+   
+    
+}
+li{
+   list-style: none; 
+   align-items: center;
+}
+
+a{
+    margin: 0px 10px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Georgia;
+    font-size: 23px;
+} 
+.menu a:hover {
+    background-color: green;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

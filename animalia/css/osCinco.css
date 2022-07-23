@@ -1,0 +1,62 @@
+.titulo{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family: Cambria;
+    padding-bottom: 10px;
+}
+.pagina{
+    background-color: white;
+    padding: 60px;
+    font-size: 20px; 
+    margin: 50px;
+    padding: 60px;
+    box-shadow: 2px 2px 15px 0px whitesmoke;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+h1 {
+    font-family: Calibri;
+    text-align: center;
+    color:black;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+}
+.FundoCamelo {
+    background-image: url(/principal/animalia/imgs/bannerEFundo/fundoCamelo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 10px;
+}
+.FundoElefante {
+    background-image: url(/principal/animalia/imgs/bannerEFundo/fundoElefante.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 10px;
+}
+.FundoFalcão {
+    background-image: url(/principal/animalia/imgs/bannerEFundo/fundoFalcão.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 10px;
+}
+.FundoLobo {
+    background-image: url(/principal/animalia/imgs/bannerEFundo/fundoLobo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 10px;
+}
+.FundoUrso {
+    background-image: url(/principal/animalia/imgs/bannerEFundo/fundoUrso.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding: 10px;
+}
