@@ -1,25 +1,25 @@
 .Fundo{
-    background-image: url(/principal/animalia/imgs/bannerEfundo/bannerAnimalia.jpg);
+    background-image: url(/animalia/imgs/bannerEfundo/bannerAnimalia.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
 }
 .PlanoDeFundo {
-    background-image: url(/principal/animalia/imgs/bannerEFundo/taiga2.jpg);
+    background-image: url(/animalia/imgs/bannerEFundo/taiga2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
     padding: 10px;
 }
 .fundoGaleria {
-    background-image: url(/principal/animalia/imgs/bannerEFundo/fundoGaleria.jpg);
+    background-image: url(/animalia/imgs/bannerEFundo/fundoGaleria.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
     padding: 10px;
 }
 .planoFundoAnimal {
-    background-image: url(/principal/animalia/imgs/bannerEfundo/Fundo.jpg);
+    background-image: url(/animalia/imgs/bannerEfundo/Fundo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
@@ -67,7 +67,7 @@ div{
     font-family: Verdana;
 }
 .fundoGale{
-    background-image: url(/principal/animalia/imgs/bannerEFundo/mesa.jpg);
+    background-image: url(/animalia/imgs/bannerEFundo/mesa.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin: auto;
